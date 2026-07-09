@@ -20,3 +20,8 @@
 - College:Hatyai technical college
 - Program:information technology
 - Year:Vocational Certificate(Voc. Cert.3)
+
+# Career 
+- Become a Software DEveloper
+- Leard DevOps
+- Leadlockerg
