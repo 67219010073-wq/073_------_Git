@@ -15,3 +15,8 @@
 - playing football
 - writing novel
 - escape
+
+# Education
+- College:Hatyai technical college
+- Program:information technology
+- Year:Vocational Certificate(Voc. Cert.3)
