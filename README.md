@@ -25,3 +25,6 @@
 - Become a Software DEveloper
 - Leard DevOps
 - Leadlockerg
+
+# my hobby
+- writing novel
