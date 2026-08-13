@@ -31,3 +31,7 @@
 
 # adout
 - agedashi tofu
+
+# place
+- Shinjuku Gyoen National Garden
+- Sensoji Temple
