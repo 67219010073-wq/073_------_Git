@@ -31,3 +31,11 @@
 
 # adout
 - agedashi tofu
+
+
+
+
+
+# food
+- Curry Rice
+- Japanese
