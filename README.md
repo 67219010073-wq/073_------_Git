@@ -36,8 +36,6 @@
 - Shinjuku Gyoen National Garden
 - Sensoji Temple
 
-
-
 # food
 - Curry Rice
 - Japanese
