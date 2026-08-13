@@ -34,4 +34,4 @@
 
 # place
 - Shinjuku Gyoen National Garden
-- 
+- Sensoji Temple
